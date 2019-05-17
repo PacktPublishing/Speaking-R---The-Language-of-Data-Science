@@ -1,4 +1,4 @@
-# JavaScript by Example [Video]
+# Speaking ‘R’ - The Language of Data Science [Video]
 This is the code repository for [Speaking ‘R’ - The Language of Data Science](https://prod.packtpub.com/in/application-development/speaking-r-language-data-science-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 n this video course, we start by focusing on R’s similarities with programming languages such as basic/c/c# with loops and conditional tests like if, so that you can feel at home and be productive straight away. 
