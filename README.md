@@ -11,13 +11,12 @@ Finally, we cover statistics, which is where R originated and what it was design
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Design your own web page 
-<LI>Perform operations using JavaScript 
-<LI>Dynamically create DOM elements in JavaScript 
-<LI>Find out how to access DOM via JavaScript 
-<LI>Dive into higher-order functions 
-<LI>Master the art of adding new features 
-<LI>See how to make your web page interactive </LI></UL></DIV>
+<LI>Work with R, the language of data science 
+<LI>Get and set up R 
+<LI>See how things are done in R, using its particular set of objects  
+<LI>Understand how working with complex data is different to standard numerical work
+<LI> Perform feature engineering with tennis data 
+<LI>Create Data Visualization using R </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
